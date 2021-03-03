@@ -6,7 +6,7 @@
 	      version="5.1.5.8"
 	      vcs-id="GITv5.1.5.8"
 	      extension="tar.xz"
-	      platform="debian_None_armhf">
+	      platform="">
 		<license name="MIT"/>
 		<author name="Lua.org, PUC-Rio" url="https://www.lua.org/" />
 		<description>
